@@ -20,6 +20,7 @@ GitHub hesabıma hoşgeldin. Bu hesapta eğitim kaynakları, bir takım kütüph
 <h3>
 Kullandıgım Dil ve Yapılar:
 </h3>
+
 <hr />
 
 <img align="left" alt="npm" width="60px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
@@ -65,7 +66,9 @@ Kullandıgım Dil ve Yapılar:
 <br />
 <br />
 <br />
+
 <hr />
+
 <h3>
 Istatistikler
 </h3>
