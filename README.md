@@ -1,12 +1,19 @@
 # Merhaba, ben Can Gokceaslan 💻
 ### GitHub hesabima hosgeldin.
+
 ![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
+
 <div style="display:flex; flex-direction:row;text-align-vertical:center;justify-content:center;align-items:center;margin-top:-30px">
+
 <div style="flex:5;font-weight:bold;font-size:16px;letter-spacing:-0.32px;text-align-vertical:center !important;justify-content:center;align-items:center;">
+
 GitHub hesabıma hoşgeldin. Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin. Hemen takip et.
+
 </div>
 <div style="flex:2;justify-content:center;align-items:center;text-align:center">
+
 <img src="https://avatars.githubusercontent.com/u/48398625?v=4" style="width:80px;height:80px; border-radius:40px"/>
+
 </div>
 </div>
 
@@ -67,6 +74,7 @@ Kullandıgım Dil ve Yapılar:
 <h3>
 Istatistikler
 </h3>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
