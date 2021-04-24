@@ -10,11 +10,6 @@
 GitHub hesabıma hoşgeldin. Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin. Hemen takip et.
 
 </div>
-<div style="flex:2;justify-content:center;align-items:center;text-align:center">
-
-<img src="https://avatars.githubusercontent.com/u/48398625?v=4" style="width:80px;height:80px; border-radius:40px"/>
-
-</div>
 </div>
 
 - Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.cangokceaslan.com)
