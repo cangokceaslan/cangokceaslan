@@ -26,7 +26,7 @@ Kullandıgım Dil ve Yapılar:
 
 <img align="left" alt="nodejs" width="60px" src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor" target="_blank" />
 
-<img align="left" alt="react" width="60px" src="https://icongr.am/devicon/express-original-wordmark.svg?size=60&color=currentColor" target="_blank" />
+<img align="left" alt="react" width="60px" src="https://icongr.am/devicon/express-original.svg?size=60&color=currentColor" target="_blank" />
 
 <img align="left" alt="mongo" width="60px" src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor" target="_blank" />
 
