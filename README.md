@@ -17,6 +17,8 @@ GitHub hesabıma hoşgeldin. Bu hesapta eğitim kaynakları, bir takım kütüph
 - Docker, Flutter ve react-native-game-engine öğreniyorum
 - Şu anda FullStack ileride FullStack++
 
+<hr />
+
 <h3>
 Kullandıgım Dil ve Yapılar:
 </h3>
@@ -69,6 +71,9 @@ Kullandıgım Dil ve Yapılar:
 <br />
 <br />
 <br />
+
+<hr />
+
 <h3>
 Istatistikler
 </h3>
