@@ -16,7 +16,7 @@
 
   
 
-GitHub hesabıma hoşgeldin. Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin. Hemen takip et.
+Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin. Hemen takip et.
 
   
 
