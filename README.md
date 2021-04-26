@@ -39,6 +39,15 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 - Şu anda FullStack ileride FullStack++
 
+<p align="left">
+
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+
+</p>
 <br />
 
 <br />
