@@ -1,6 +1,6 @@
 #  Merhaba, ben Can Gokceaslan 💻
 
-<img src="https://monophy.com/media/npIVZg7MYoEUg/monophy.gif" alt="radar" width=300 height=auto align="right">
+<img src="https://64.media.tumblr.com/d36278415ea2632bb223d8e736a93a6b/tumblr_n6akz39WvM1shpedgo1_500.gif" alt="radar" width=300 height=auto align="right">
 
 ###  GitHub hesabima hosgeldin.
 
