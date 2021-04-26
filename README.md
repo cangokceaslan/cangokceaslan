@@ -43,21 +43,32 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a href="https://twitter.com/cangokceaslan">
 
-<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+<img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=60 alt="twitter">
+
+</a>
+
+<a href="https://udemy.com/user/cangokceaslan">
+
+<img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
 <a href="https://instagram.com/cangokceaslan">
 
-<img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-transparent-instagram-images-pluspng-3.png" width=60 alt="twitter">
+<img src="https://cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
-<a href="https://twitter.com/cangokceaslan">
+<a href="https://linkedin.com/in/cangokceaslan">
 
-<img src="https://toppng.com/uploads/preview/linkedin-color-icon-linkedin-logo-round-11562920732qctvxkrdcd.png" width=60 alt="twitter">
+<img src="https://cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=60 alt="twitter">
+
+<a href="https://facebook.com/cangokceaslan">
+
+<img src="https://cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
+
 
 </p>
 
