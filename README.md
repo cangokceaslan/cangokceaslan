@@ -151,8 +151,13 @@ Bu Hesabın İstatistikleri:
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10" alt="my commit status" width="100%" />
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10" alt="my commit status" width="49%" />
+
+<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width="49%" align="right">
+
+</p>
 <!-- 
 ![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
 
