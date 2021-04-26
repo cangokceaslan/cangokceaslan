@@ -3,6 +3,10 @@
 
 ###  GitHub hesabima hosgeldin.
 
+  
+
+![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
+
 
 <div  style="display:flex; flex-direction:row;text-align-vertical:center;justify-content:center;align-items:center;margin-top:-30px">
 
@@ -126,9 +130,7 @@ Kullandıgım Dil ve Yapılar:
 <img  align="center"  alt="git"  width="80px"  src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
-</div>  
-
-![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
+</div>
 
 ![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
 
