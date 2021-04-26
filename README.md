@@ -3,6 +3,7 @@
 
 ###  GitHub hesabima hosgeldin.
 
+<style>table{border:none;}</style>
   
 
 ![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
