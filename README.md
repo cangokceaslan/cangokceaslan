@@ -173,8 +173,7 @@ Kullandıgım Dil ve Yapılar:
 
 <h3>
 
-Istatistikler
-
+Bu Hesabın İstatistikleri:
 </h3>
 
   
