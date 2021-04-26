@@ -49,7 +49,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a href="https://instagram.com/cangokceaslan">
 
-<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width=60 alt="twitter">
+<img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-png-transparent-instagram-images-pluspng-3.png" width=60 alt="twitter">
 
 </a>
 
