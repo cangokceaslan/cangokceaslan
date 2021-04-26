@@ -55,7 +55,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a href="https://twitter.com/cangokceaslan">
 
-<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" width=60 alt="twitter">
 
 </a>
 
