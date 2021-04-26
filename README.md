@@ -38,6 +38,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 - Docker, Flutter ve react-native-game-engine öğreniyorum
 
 - Şu anda FullStack ileride FullStack++
+<br />
 
 </div>
 
@@ -54,7 +55,7 @@ Kullandıgım Dil ve Yapılar:
 
   
 
-<hr />
+---
 
   
 <div align="center" background="white" style="background-color:white !important;">
