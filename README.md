@@ -155,7 +155,7 @@ Bu Hesabın İstatistikleri:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10" alt="my commit status" width="49%" />
 
-<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width="49%" align="right">
+<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width="49%">
 
 </p>
 <!-- 
