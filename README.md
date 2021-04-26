@@ -142,7 +142,7 @@ Bu Hesabın İstatistikleri:
 </h3>
 
 ---
-<p align="left>
+<p align="center>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark" alt="my github stats" width="49%"/>
 
