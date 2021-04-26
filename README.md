@@ -43,9 +43,8 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 </p>
 
-<hr />
 
-  
+---
 
 <h3>
 
