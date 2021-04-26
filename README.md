@@ -64,6 +64,7 @@ Kullandıgım Dil ve Yapılar:
 <hr />
 
   
+<div>
 
 <img  align="left"  alt="npm"  width="60px"  src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
 
@@ -142,6 +143,7 @@ Kullandıgım Dil ve Yapılar:
 <img  align="left"  alt="git"  width="60px"  src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
+</div>
 
 <br />
 
