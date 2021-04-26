@@ -89,7 +89,7 @@ Kullandıgım Dil ve Yapılar:
 <hr />
 
   
-<div>
+<div style="justify-content:center">
 
 <img  align="left"  alt="npm"  width="60px"  src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
 
