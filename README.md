@@ -66,10 +66,15 @@ Kullandıgım Dil ve Yapılar:
 <img align="left" alt="git" width="60px" src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor" target="_blank" />  
 
 <br />
+
 <br />
+
 <br />
+
 <br />
+
 <br />
+
 <br />
 
 <hr />
@@ -81,6 +86,6 @@ Istatistikler
 <hr />
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark)
+![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
