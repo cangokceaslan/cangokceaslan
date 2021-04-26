@@ -141,19 +141,19 @@ Bu Hesabın İstatistikleri:
 
 <hr />
 
-<div style="width:100%" width="100%">
+<div align="center" style="width:100%" width="100%">
 
 ![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
 
 </div>
 
-<div style="width:100%" width="100%">
+<div align="center" style="width:100%" width="100%">
 
 ![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
 
 </div>
 
-<div style="width:100%" width="100%">  
+<div align="center" style="width:100%" width="100%">  
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
   
