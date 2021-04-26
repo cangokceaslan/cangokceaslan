@@ -91,81 +91,81 @@ Kullandıgım Dil ve Yapılar:
   
 <div style="justify-content:center;flex:1;align-items:center">
 
-<img  align="center"  alt="npm"  width="60px"  src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="npm"  width="80px"  src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="nodejs"  width="60px"  src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="nodejs"  width="80px"  src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="react"  width="60px"  src="https://icongr.am/devicon/express-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="react"  width="80px"  src="https://icongr.am/devicon/express-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="mongo"  width="60px"  src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="mongo"  width="80px"  src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="javascript"  width="60px"  src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="javascript"  width="80px"  src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="react"  width="60px"  src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="react"  width="80px"  src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="typescript"  width="60px"  src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="typescript"  width="80px"  src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="python"  width="60px"  src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="python"  width="80px"  src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="php"  width="60px"  src="https://icongr.am/devicon/php-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="php"  width="80px"  src="https://icongr.am/devicon/php-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="postgre"  width="60px"  src="https://icongr.am/devicon/mysql-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="postgre"  width="80px"  src="https://icongr.am/devicon/mysql-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="cplusplus"  width="60px"  src="https://icongr.am/devicon/cplusplus-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="cplusplus"  width="80px"  src="https://icongr.am/devicon/cplusplus-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="C"  width="60px"  src="https://icongr.am/devicon/c-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="C"  width="80px"  src="https://icongr.am/devicon/c-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="linux"  width="60px"  src="https://icongr.am/devicon/linux-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="linux"  width="80px"  src="https://icongr.am/devicon/linux-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="css3"  width="60px"  src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"  target="_blank" />
+<img  align="center"  alt="css3"  width="80px"  src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="html5"  width="60px"  src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"  target="_blank" />
+<img  align="center"  alt="html5"  width="80px"  src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="jquery"  width="60px"  src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor"  target="_blank" />
+<img  align="center"  alt="jquery"  width="80px"  src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="wordpress"  width="60px"  src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor"  target="_blank" />
+<img  align="center"  alt="wordpress"  width="80px"  src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="docker"  width="60px"  src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor"  target="_blank" />
+<img  align="center"  alt="docker"  width="80px"  src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor"  target="_blank" />
 
-<img  align="center"  alt="amazon"  width="60px"  src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="amazon"  width="80px"  src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
-<img  align="center"  alt="git"  width="60px"  src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor"  target="_blank" />
+<img  align="center"  alt="git"  width="80px"  src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 </div>
