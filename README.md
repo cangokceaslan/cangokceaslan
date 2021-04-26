@@ -132,6 +132,8 @@ Kullandıgım Dil ve Yapılar:
   
 </div>
 
+<hr />
+
 ![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
 
 
