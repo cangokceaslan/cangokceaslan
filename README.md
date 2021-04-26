@@ -143,7 +143,6 @@ Bu Hesabın İstatistikleri:
 
 ---
 
-<p align="center>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark" alt="my github stats" width="49%"/>
 
@@ -157,7 +156,6 @@ Bu Hesabın İstatistikleri:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
 
 -->
-</p>
 
 ---
 
