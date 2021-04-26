@@ -170,25 +170,3 @@ Kullandıgım Dil ve Yapılar:
   
 </div>
 
-<br />
-
-  
-
-<br />
-
-  
-
-<br />
-
-  
-
-<br />
-
-  
-
-<br />
-
-  
-
-<br />
-
