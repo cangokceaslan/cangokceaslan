@@ -200,13 +200,14 @@ Istatistikler
    
    </tr>
    
-</table>
+<tr>
 
 ![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
 
 
-
+</tr>
  
+</table>
 
 
 
