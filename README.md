@@ -41,14 +41,25 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <p align="left">
 
-<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+<a href="https://twitter.com/cangokceaslan">
 
 <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
 
+</a>
+
+<a href="https://twitter.com/cangokceaslan">
+
 <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+
+</a>
+
+<a href="https://twitter.com/cangokceaslan">
+
+<img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width=60 alt="twitter">
+
+</a>
 
 </p>
-<br />
 
 <br />
 
