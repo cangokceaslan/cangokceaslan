@@ -1,6 +1,10 @@
 #  Merhaba, ben Can Gokceaslan 💻
 
+<p align="center">
+
 <img src="https://64.media.tumblr.com/d36278415ea2632bb223d8e736a93a6b/tumblr_n6akz39WvM1shpedgo1_500.gif" alt="radar" width=300 height=auto align="right">
+
+<div align="left">
 
 ###  GitHub hesabima hosgeldin.
 
@@ -35,7 +39,9 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 - Şu anda FullStack ileride FullStack++
 
-  
+</div>
+
+</p>
 
 <hr />
 
