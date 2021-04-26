@@ -142,6 +142,7 @@ Bu Hesabın İstatistikleri:
 </h3>
 
 ---
+<p align="left>
 
 ![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
 
@@ -149,12 +150,12 @@ Bu Hesabın İstatistikleri:
 
 ![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
 
-
+</p>
 ---
 
 ### Pandemi nasıl geçiyor
   <table style="border:none;">
-  <tr> 
+<tr> 
 <td>  <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="300px" alt="Coder" /></td >
  <td> <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" width="300px" alt="Coder" />
 </td>
