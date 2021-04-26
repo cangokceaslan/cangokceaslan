@@ -1,7 +1,6 @@
-<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width=300 height=auto align="right">
-
 #  Merhaba, ben Can Gokceaslan 💻
 
+<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width=300 height=auto align="right">
 
 ###  GitHub hesabima hosgeldin.
 
