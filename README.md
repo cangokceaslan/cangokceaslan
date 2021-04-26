@@ -1,3 +1,4 @@
+<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width=300 height=auto align="right">
 
 #  Merhaba, ben Can Gokceaslan 💻
 
@@ -39,7 +40,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <hr />
 
-<img src="https://github.com/xkendx/xkendx/blob/main/radar.gif" alt="radar" width=300 height=auto align="right">
+  
 
 <h3>
 
