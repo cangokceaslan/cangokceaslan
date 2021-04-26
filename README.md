@@ -144,13 +144,17 @@ Bu Hesabın İstatistikleri:
 ---
 <p align="left>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1" alt="my commit status" width="49%" />
+
+<!-- 
 ![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
 
 ![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
 
-
+-->
 </p>
 ---
 
