@@ -3,48 +3,6 @@
 
 ###  GitHub hesabima hosgeldin.
 
-  
-
-![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
-
-![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
-
-
-<hr />
-
-  
-
-<h3>
-
-Bu Hesabın İstatistikleri:
-</h3>
-
-  
-
-<hr />
-
-
-
-
-![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
-
-
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
-  
-    
-
-### Pandemi nasıl geçiyor
-  <table style="border:none;">
-  <tr> 
-<td>  <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="300px" alt="Coder" /></td >
- <td> <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" width="300px" alt="Coder" />
-</td>
- <td> <img src="https://i.pinimg.com/originals/41/f5/2d/41f52d4e756d803f9f1851335dba96f6.gif" width="300px" alt="Coder" />
-</td>
-</tr>
-  </table>
-
 
 <div  style="display:flex; flex-direction:row;text-align-vertical:center;justify-content:center;align-items:center;margin-top:-30px">
 
@@ -168,5 +126,48 @@ Kullandıgım Dil ve Yapılar:
 <img  align="center"  alt="git"  width="80px"  src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
-</div>
+</div>  
+
+![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
+
+![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
+
+
+<hr />
+
+  
+
+<h3>
+
+Bu Hesabın İstatistikleri:
+</h3>
+
+  
+
+<hr />
+
+
+
+
+![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
+
+
+  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
+  
+    
+
+### Pandemi nasıl geçiyor
+  <table style="border:none;">
+  <tr> 
+<td>  <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="300px" alt="Coder" /></td >
+ <td> <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" width="300px" alt="Coder" />
+</td>
+ <td> <img src="https://i.pinimg.com/originals/41/f5/2d/41f52d4e756d803f9f1851335dba96f6.gif" width="300px" alt="Coder" />
+</td>
+</tr>
+  </table>
+
+
+
 
