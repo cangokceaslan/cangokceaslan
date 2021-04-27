@@ -43,31 +43,31 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a href="https://twitter.com/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?size=40&cache_delete=2" width=50 alt="twitter">
+<img style="width:18%" src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
 <a href="https://udemy.com/user/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=50 alt="twitter">
+<img style="width:18%" src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
 <a href="https://instagram.com/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=50 alt="twitter">
+<img style="width:18%" src="https://cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
 <a href="https://linkedin.com/in/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=50 alt="twitter">
+<img style="width:18%" src="https://cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
 <a href="https://facebook.com/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=50 alt="twitter">
+<img style="width:18%" src="https://cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
