@@ -33,7 +33,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 - Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.cangokceaslan.com)
 
-- Şu anda <a  target="__blank"  href="https://www.linkedin.com/company/bartyappcorporate/">BartyApp</a>'i geliştiriyorum.
+- Şu anda <a target="__blank"   target="__blank"  href="https://www.linkedin.com/company/bartyappcorporate/">BartyApp</a>'i geliştiriyorum.
 
 - Docker, Flutter ve react-native-game-engine öğreniyorum
 
@@ -41,55 +41,55 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <div align="left">
 
-<a href="https://twitter.com/cangokceaslan" align="center">
+<a target="__blank"  href="https://twitter.com/cangokceaslan" align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
-<a align="center">
+<a target="__blank"  align="center">
 
 <img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
-<a href="https://udemy.com/user/cangokceaslan" align="center">
+<a target="__blank"  href="https://udemy.com/user/cangokceaslan" align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
-<a align="center">
+<a target="__blank"  align="center">
 
 <img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
-<a href="https://instagram.com/cangokceaslan" align="center">
+<a target="__blank"  href="https://instagram.com/cangokceaslan" align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
-<a align="center">
+<a target="__blank"  align="center">
 
 <img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
-<a href="https://linkedin.com/in/cangokceaslan" align="center">
+<a target="__blank"  href="https://linkedin.com/in/cangokceaslan" align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
-<a align="center">
+<a target="__blank"  align="center">
 
 <img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
-<a href="https://facebook.com/cangokceaslan" align="center">
+<a target="__blank"  href="https://facebook.com/cangokceaslan" align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=50 alt="twitter">
 
