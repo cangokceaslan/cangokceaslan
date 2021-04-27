@@ -41,13 +41,13 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <p align="left">
 
-<a href="https://twitter.com/cangokceaslan" style="margin:5px">
+<a href="https://twitter.com/cangokceaslan" margin=5>
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=60 margin=5 alt="twitter">
 
 </a>
 
-<a href="https://udemy.com/user/cangokceaslan" style="margin:5px">
+<a href="https://udemy.com/user/cangokceaslan" margin=5>
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=60 alt="twitter">
 
