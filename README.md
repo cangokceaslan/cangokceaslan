@@ -39,7 +39,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 - Şu anda FullStack ileride FullStack++
 
-<div align="left" width=290>
+<div align="left">
 
 <a href="https://twitter.com/cangokceaslan" align="center">
 
