@@ -49,7 +49,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a align="center">
 
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
@@ -61,7 +61,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a align="center">
 
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
@@ -73,13 +73,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a align="center">
 
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
-
-</a>
-
-<a align="center">
-
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
@@ -91,7 +85,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a align="center">
 
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
 
 </a>
 
