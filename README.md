@@ -95,6 +95,17 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 </a>
 
+<a target="__blank"  align="center">
+
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
+
+</a>
+
+<a target="__blank"  href="https://stackoverflow.com/users/10800488/cangokceaslan" align="center">
+
+<img src="https://cangokceaslan.com/cangokceaslan/static/stackoverflow.svg?cache_delete=2" width=50 alt="twitter">
+
+</a>
 
 </div>
 
