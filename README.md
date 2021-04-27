@@ -48,7 +48,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 </a>
 
 <a href="https://udemy.com/user/cangokceaslan">
-
+<a  width=5></a>
 <img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
