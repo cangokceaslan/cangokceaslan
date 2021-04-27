@@ -43,17 +43,15 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a href="https://twitter.com/cangokceaslan">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=60 margin=5 alt="twitter">
+<img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
 <a href="https://udemy.com/user/cangokceaslan">
-<a  width=5></a>
 <img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
-<a width=5></a>
 
 <a href="https://instagram.com/cangokceaslan">
 
@@ -61,7 +59,6 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 </a>
 
-<a width=5></a>
 
 <a href="https://linkedin.com/in/cangokceaslan">
 
@@ -69,7 +66,6 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 </a>
 
-<a width=5></a>
 
 <a href="https://facebook.com/cangokceaslan">
 
