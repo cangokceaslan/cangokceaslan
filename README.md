@@ -41,33 +41,30 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <p align="left">
 
-<a href="https://twitter.com/cangokceaslan">
+<a href="https://twitter.com/cangokceaslan" width=70 align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
-<a href="https://udemy.com/user/cangokceaslan">
+<a href="https://udemy.com/user/cangokceaslan" width=70 align="center">
 <img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
-
-<a href="https://instagram.com/cangokceaslan">
+<a href="https://instagram.com/cangokceaslan" width=70 align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
-
-<a href="https://linkedin.com/in/cangokceaslan">
+<a href="https://linkedin.com/in/cangokceaslan" width=70 align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=60 alt="twitter">
 
 </a>
 
-
-<a href="https://facebook.com/cangokceaslan">
+<a href="https://facebook.com/cangokceaslan" width=70 align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=60 alt="twitter">
 
