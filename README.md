@@ -47,9 +47,21 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 </a>
 
+<a align="center">
+
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
+
+</a>
+
 <a href="https://udemy.com/user/cangokceaslan" align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=50 alt="twitter">
+
+</a>
+
+<a align="center">
+
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
 
 </a>
 
@@ -59,9 +71,27 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 </a>
 
+<a align="center">
+
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
+
+</a>
+
+<a align="center">
+
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
+
+</a>
+
 <a href="https://linkedin.com/in/cangokceaslan" align="center">
 
 <img src="https://cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=50 alt="twitter">
+
+</a>
+
+<a align="center">
+
+<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=10 alt="twitter">
 
 </a>
 
