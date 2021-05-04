@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/bas.gif" alt="radar" width="38%" height=auto align="right">
+<img src="https://cangokceaslan.com/cangokceaslan/static/graphs.gif" alt="radar" width="38%" height=auto align="right">
 
 <div align="left" width="62%">
 
