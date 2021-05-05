@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/graph.gif?cache_delete=2" alt="Graph" width="38%" height=auto align="right">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/graph.gif?cache_delete=2" alt="Graph" width="38%" height=auto align="right">
 
 <div align="left" width="62%">
 
@@ -31,7 +31,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
   
 
-- Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.cangokceaslan.com)
+- Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.www.cangokceaslan.com)
 
 - Şu anda <a target="__blank"   target="__blank"  href="https://www.linkedin.com/company/bartyappcorporate/">BartyApp</a>'i geliştiriyorum.
 
@@ -43,7 +43,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://twitter.com/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=2" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=3" width=50 alt="twitter">
 
 </a>
 
@@ -55,7 +55,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://udemy.com/user/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
@@ -67,7 +67,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://instagram.com/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
@@ -79,7 +79,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://linkedin.com/in/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
@@ -91,7 +91,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://facebook.com/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
@@ -103,7 +103,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://stackoverflow.com/users/10800488/cangokceaslan" align="center">
 
-<img src="https://cangokceaslan.com/cangokceaslan/static/stackoverflow.svg?cache_delete=2" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/stackoverflow.svg?cache_delete=2" width=50 alt="twitter">
 
 </a>
 
