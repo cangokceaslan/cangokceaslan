@@ -37,7 +37,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 - Docker, Flutter ve react-native-game-engine öğreniyorum
 
-- Şu anda FullStack ileride FullStack++
+- Şu anda FullStack ileride FullStack+++
 
 <div align="left">
 
