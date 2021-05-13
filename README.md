@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/graph.gif?cache_delete=2" alt="Graph" width="38%" height=auto align="right">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/graph.gif?cache_delete=3" alt="Graph" width="38%" height=auto align="right">
 
 <div align="left" width="62%">
 
