@@ -43,7 +43,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://twitter.com/cangokceaslan" align="center">
 
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=3" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=4" width=50 alt="twitter">
 
 </a>
 
