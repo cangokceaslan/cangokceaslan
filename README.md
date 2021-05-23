@@ -31,7 +31,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
   
 
-- Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.www.cangokceaslan.com)
+- Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.cangokceaslan.com)
 
 - Şu anda <a target="__blank"   target="__blank"  href="https://www.linkedin.com/company/bartyappcorporate/">BartyApp</a>'i geliştiriyorum.
 
