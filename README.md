@@ -203,7 +203,11 @@ Kullandıgım Dil ve Yapılar:
 
 <img  align="center"  alt="docker"  width="80px"  src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor"  target="_blank" />
 
+
 <img  align="center"  alt="amazon"  width="80px"  src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
+
+
+<img  align="center"  alt="docker"  width="80px"  src="https://icongr.am/devicon/docker-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
