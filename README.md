@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/graph.gif?cache_delete=2" alt="Graph" width="38%" height=auto align="right">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/graph.gif?cache_delete=3" alt="Graph" width="38%" height=auto align="right">
 
 <div align="left" width="62%">
 
@@ -31,7 +31,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
   
 
-- Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.www.cangokceaslan.com)
+- Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.cangokceaslan.com)
 
 - Şu anda <a target="__blank"   target="__blank"  href="https://www.linkedin.com/company/bartyappcorporate/">BartyApp</a>'i geliştiriyorum.
 
@@ -43,7 +43,7 @@ Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin
 
 <a target="__blank"  href="https://twitter.com/cangokceaslan" align="center">
 
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=3" width=50 alt="twitter">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=4" width=50 alt="twitter">
 
 </a>
 
@@ -203,7 +203,11 @@ Kullandıgım Dil ve Yapılar:
 
 <img  align="center"  alt="docker"  width="80px"  src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor"  target="_blank" />
 
+
 <img  align="center"  alt="amazon"  width="80px"  src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
+
+
+<img  align="center"  alt="docker"  width="80px"  src="https://icongr.am/devicon/docker-original.svg?size=60&color=currentColor"  target="_blank" />
 
   
 
