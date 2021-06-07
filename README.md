@@ -14,6 +14,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/cangokceaslan?style=social)](https://twitter.com/cangokceaslan)
 [![GitHub Follow](https://img.shields.io/github/followers/cangokceaslan?style=social)](https://www.github.com/cangokceaslan)
 [![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCezYftagKVDDxfoVQKrnq4A?style=social)](https://www.youtube.com/cangokceaslan?sub_confirmation=1)
+[![Twitch Live](https://img.shields.io/twitch/status/cangokceaslan?style=social)](https://www.twitch.tv/cangokceaslan)
 
 <div  style="display:flex; flex-direction:row;text-align-vertical:center;justify-content:center;align-items:center;margin-top:-30px">
 
