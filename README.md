@@ -12,7 +12,7 @@
 
 ![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cangokceaslan?style=flat-square)](https://twitter.com/cangokceaslan)
-
+[![Twitter Follow](https://img.shields.io/github/followers/cangokceaslan?style=social)](https://www.youtube.com/cangokceaslan?sub_confirmation=1)
 
 <div  style="display:flex; flex-direction:row;text-align-vertical:center;justify-content:center;align-items:center;margin-top:-30px">
 
