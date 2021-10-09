@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://www.cangokceaslan.com/images/blackhole.gif?cache_delete=5" alt="Black Hole Gif" width="38%" height=auto align="right">
+<img src="https://www.cangokceaslan.com/cangokceaslan/static/blackholex.gif?cache_delete=4" alt="Black Hole Gif" width="38%" height=auto align="right">
 
 <div align="left" width="62%">
 
