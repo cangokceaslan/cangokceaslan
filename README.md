@@ -135,6 +135,8 @@ Kullandıgım Dil ve Yapılar:
 
   
 <div align="center" background="white" style="background-color:white !important;">
+<img  align="center"  alt="babel"  width="80px"  src="https://icongr.am/devicon/babel-original.svg?size=60&color=currentColor"  target="_blank" />
+
 
 <img  align="center"  alt="npm"  width="80px"  src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
 
