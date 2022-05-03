@@ -1,4 +1,4 @@
-Hi 👋 My name is Can Gökçeaslan
+Hi 👋 My name is Can Gokceaslan
 ===============================
 
 CTO - CoFounder - Full Stack Developer
