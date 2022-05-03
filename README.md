@@ -1,273 +1,88 @@
-#  Merhaba, ben Can Gokceaslan 💻
-
-<p align="center">
-
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/blackholex.gif?cache_delete=4" alt="Black Hole Gif" width="38%" height=auto align="right">
-
-<div align="left" width="62%">
-
-###  GitHub hesabima hosgeldin.
-
-  
-
-![profile-views](https://komarev.com/ghpvc/?username=cangokceaslan&color=brightgreen)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cangokceaslan?style=social)](https://twitter.com/cangokceaslan)
-[![GitHub Follow](https://img.shields.io/github/followers/cangokceaslan?style=social)](https://www.github.com/cangokceaslan)
-[![Youtube Follow](https://img.shields.io/youtube/channel/subscribers/UCezYftagKVDDxfoVQKrnq4A?style=social)](https://www.youtube.com/cangokceaslan?sub_confirmation=1)
-[![Twitch Live](https://img.shields.io/twitch/status/cangokceaslan?style=social)](https://www.twitch.tv/cangokceaslan)
-[![Youtube Follow](https://img.shields.io/youtube/channel/views/UCezYftagKVDDxfoVQKrnq4A?style=social)](https://www.youtube.com/cangokceaslan?sub_confirmation=1)
-<div  style="display:flex; flex-direction:row;text-align-vertical:center;justify-content:center;align-items:center;margin-top:-30px">
-
-  
-
-<div  style="flex:5;font-weight:bold;font-size:16px;letter-spacing:-0.32px;text-align-vertical:center !important;justify-content:center;align-items:center;">
-
-  
-
-Bu hesapta eğitim kaynakları, bir takım kütüphane ve kodlara ulaşabilirsin. Hemen takip et.
-
-  
-
-</div>
-
-</div>
-
-  
-
-- Bana buradan ulaşabilirsin: [Can Gökçeaslan - Ink](https://ink.cangokceaslan.com)
-
-- Şu anda <a target="__blank"   target="__blank"  href="https://www.linkedin.com/company/bartyappcorporate/">BartyApp</a>'i geliştiriyorum.
-
-- Docker, Flutter ve react-native-game-engine öğreniyorum
-
-- Şu anda FullStack ileride FullStack+++
-
-<div align="left">
-
-<a target="__blank"  href="https://twitter.com/cangokceaslan" align="center">
-
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/twitter.svg?cache_delete=4" width=50 alt="twitter">
-
-</a>
-
-<a target="__blank"  align="center">
-
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
-
-</a>
-
-<a target="__blank"  href="https://udemy.com/user/cangokceaslan" align="center">
-
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/udemy.svg?cache_delete=2" width=50 alt="twitter">
-
-</a>
-
-<a target="__blank"  align="center">
-
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
-
-</a>
-
-<a target="__blank"  href="https://instagram.com/cangokceaslan" align="center">
-
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/instagram.svg?cache_delete=2" width=50 alt="twitter">
-
-</a>
-
-<a target="__blank"  align="center">
-
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
-
-</a>
-
-<a target="__blank"  href="https://linkedin.com/in/cangokceaslan" align="center">
-
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/linkedin.svg?cache_delete=2" width=50 alt="twitter">
-
-</a>
-
-<a target="__blank"  align="center">
-
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
-
-</a>
-
-<a target="__blank"  href="https://facebook.com/cangokceaslan" align="center">
-
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/facebook.svg?cache_delete=2" width=50 alt="twitter">
-
-</a>
-
-<a target="__blank"  align="center">
-
-<img src="http://pngimg.com/uploads/rain/rain_PNG13455.png" width=5 alt="twitter">
-
-</a>
-
-<a target="__blank"  href="https://stackoverflow.com/users/10800488/cangokceaslan" align="center">
-
-<img src="https://www.cangokceaslan.com/cangokceaslan/static/stackoverflow.svg?cache_delete=2" width=50 alt="twitter">
-
-</a>
-
-</div>
-
-<br />
-
-<br />
-
-</div>
-
-</p>
-
-
----
-
-<h3>
-
-Kullandıgım Dil ve Yapılar:
-
-</h3>
-
-  
-
----
-
-  
-<div align="center" background="white" style="background-color:white !important;">
-<img  align="center"  alt="npm"  width="80px"  src="https://icongr.am/devicon/npm-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-<img  align="center"  alt="babel"  width="80px"  src="https://icongr.am/devicon/babel-original.svg?size=60&color=currentColor"  target="_blank" />
-
-
-<img  align="center"  alt="nodejs"  width="80px"  src="https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="react"  width="80px"  src="https://icongr.am/devicon/express-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="mongo"  width="80px"  src="https://icongr.am/devicon/mongodb-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="javascript"  width="80px"  src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="react"  width="80px"  src="https://icongr.am/devicon/react-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="typescript"  width="80px"  src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="python"  width="80px"  src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="php"  width="80px"  src="https://icongr.am/devicon/php-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="postgre"  width="80px"  src="https://icongr.am/devicon/mysql-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="cplusplus"  width="80px"  src="https://icongr.am/devicon/cplusplus-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="C"  width="80px"  src="https://icongr.am/devicon/c-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="linux"  width="80px"  src="https://icongr.am/devicon/linux-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="css3"  width="80px"  src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="html5"  width="80px"  src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="jquery"  width="80px"  src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="wordpress"  width="80px"  src="https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="docker"  width="80px"  src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor"  target="_blank" />
-
-
-<img  align="center"  alt="amazon"  width="80px"  src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=60&color=currentColor"  target="_blank" />
-
-
-<img  align="center"  alt="docker"  width="80px"  src="https://icongr.am/devicon/docker-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-
-<img  align="center"  alt="git"  width="80px"  src="https://icongr.am/devicon/git-original.svg?size=60&color=currentColor"  target="_blank" />
-
-  
-</div>
-
----
-
-<h3>
-
-Bu Hesabın İstatistikleri:
-
-</h3>
-
----
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark&cache_delete=6" alt="my github stats" width="80%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=6" alt="my commit status" width="80%" />
-
+Hi 👋 My name is Can Gökçeaslan
+===============================
+
+CTO - CoFounder - Full Stack Developer
+--------------------------------------
+
+I am currently CTO of StartUp. I am also teaching courses on Udemy. My main goal is to influence people about programming.
+
+* 🌍  I'm based in Istanbul
+* 🖥️  See my portfolio at [cangokceaslan.com](http://www.cangokceaslan.com)
+* ✉️  You can contact me at [cangokceaslan@hotmail.com](mailto:cangokceaslan@hotmail.com)
+* 🚀  I'm currently working on [Barty App](http://barty.app)
+* 🤝  I'm open to collaborating on open source projects
+
+<a href="https://www.twitter.com/cangokceaslan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/cangokceaslan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/cangokceaslan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/cangokceaslan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/cangokceaslan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/cangokceaslan?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+### Skills
 
 <p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10&cache_delete=6" alt="my commit status" width="56%" />
-
-
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
-<!-- 
-![CanGokceaslan's github stats](https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&theme=chartreuse-dark)
 
-![CanGokceaslan's github stats](https://github-readme-stats.vercel.app/api?username=cangokceaslan&count_private=true&show_icons=true&theme=dark&cache_delete=1)
+### Socials
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&theme=dark&layout=compact&hide=glsl&langs_count=10)
+<p align="left"> <a href="https://www.facebook.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.cangokceaslan.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10800488/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
--->
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-### Pandemi nasıl geçiyor
+<a href="http://www.github.com/cangokceaslan"><img src="https://github-readme-stats.vercel.app/api?username=cangokceaslan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cangokceaslan's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/cangokceaslan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<table style="border:none;">
-<tr> 
-<td>  <img src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" width="300px" alt="Coder" /></td >
- <td> <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" width="300px" alt="Coder" />
-</td>
- <td> <img src="https://i.pinimg.com/originals/41/f5/2d/41f52d4e756d803f9f1851335dba96f6.gif" width="300px" alt="Coder" />
-</td>
-</tr>
-  </table>
+<a href="http://www.github.com/cangokceaslan"><img src="https://activity-graph.herokuapp.com/graph?username=cangokceaslan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/cangokceaslan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/cangokceaslan/express-swagger-producer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangokceaslan&repo=express-swagger-producer&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cangokceaslan/mongoose-truck" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangokceaslan&repo=mongoose-truck&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/cangokceaslan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
