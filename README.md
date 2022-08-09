@@ -4,7 +4,7 @@ Hi 👋 My name is Can Gokceaslan
 CTO - CoFounder - Full Stack Developer
 --------------------------------------
 
-I am currently CTO of StartUp. I am also teaching courses on Udemy. My main goal is to influence people about programming.
+I am currently CTO of a startup company. I am also teaching courses on Udemy. My main goal is to influence people about programming.
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [cangokceaslan.com](http://www.cangokceaslan.com)
