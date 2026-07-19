@@ -67,25 +67,9 @@ I build software products, launch technology ventures, and share what I learn th
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cangokceaslan&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cangokceaslan&amp;theme=github">
-    <img width="100%" alt="Can Gökçeaslan's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cangokceaslan&amp;theme=github">
-  </picture>
-</a>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cangokceaslan&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cangokceaslan&amp;theme=github">
-    <img width="100%" alt="Can Gökçeaslan's top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cangokceaslan&amp;theme=github">
-  </picture>
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cangokceaslan&amp;background=0D1117&amp;border=2E343B&amp;stroke=8B949E&amp;ring=EFB600&amp;fire=EFB600&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=EFB600&amp;sideLabels=8B949E&amp;dates=8B949E&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=cangokceaslan&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=57606A&amp;ring=B8860B&amp;fire=EFB600&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=9A6700&amp;sideLabels=57606A&amp;dates=57606A&amp;hide_border=true">
-    <img width="100%" alt="Can Gökçeaslan's GitHub contribution streak" src="https://streak-stats.demolab.com?user=cangokceaslan&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=57606A&amp;ring=B8860B&amp;fire=EFB600&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=9A6700&amp;sideLabels=57606A&amp;dates=57606A&amp;hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cangokceaslan&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cangokceaslan&amp;theme=github">
+    <img width="100%" alt="Can Gökçeaslan's GitHub activity over the last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cangokceaslan&amp;theme=github">
   </picture>
 </a>
 
