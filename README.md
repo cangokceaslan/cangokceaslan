@@ -1,90 +1,99 @@
-Hi 👋 My name is Can Gokceaslan
-===============================
+# Hi, I'm Can Gökçeaslan 👋
 
-CTO - CoFounder - Full Stack Developer
---------------------------------------
+**Entrepreneur · CTO · Software Educator**
 
-I am currently CTO of a startup company. I am also teaching courses on Udemy. My main goal is to influence people about programming.
+I build software products, launch technology ventures, and share what I learn through practical developer education. I currently lead product and engineering at [GoodTech.](https://www.goodtechproducts.com), where we design and develop AI-native digital experiences.
 
-* 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [cangokceaslan.com](http://www.cangokceaslan.com)
-* ✉️  You can contact me at [cangokceaslan@hotmail.com](mailto:cangokceaslan@hotmail.com)
-* 🚀  I'm currently working on [Barty App](http://barty.app)
-* 🤝  I'm open to collaborating on open source projects
+<a href="https://www.cangokceaslan.com"><img src="./assets/connects/website.png" width="36" height="36" alt="Website" title="Website"></a>&nbsp;&nbsp; <a href="https://www.goodtechproducts.com"><img src="./assets/connects/goodtech.png" width="36" height="36" alt="GoodTech." title="GoodTech."></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cangokceaslan"><img src="./assets/connects/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp; <a href="https://www.instagram.com/cangokceaslan"><img src="./assets/connects/instagram.svg" width="36" height="36" alt="Instagram" title="Instagram"></a>&nbsp;&nbsp; <a href="https://www.threads.com/@cangokceaslan"><img src="./assets/connects/threads.svg" width="36" height="36" alt="Threads" title="Threads"></a>&nbsp;&nbsp; <a href="https://www.youtube.com/cangokceaslan"><img src="./assets/connects/youtube.svg" width="36" height="36" alt="YouTube" title="YouTube"></a>&nbsp;&nbsp; <a href="https://www.udemy.com/user/cangokceaslan"><img src="./assets/connects/udemy.svg" width="36" height="36" alt="Udemy" title="Udemy"></a>&nbsp;&nbsp; <a href="https://huggingface.co/cangokceaslan"><img src="./assets/connects/huggingface.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face"></a>
 
-<a href="https://www.twitter.com/cangokceaslan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/cangokceaslan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/cangokceaslan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/cangokceaslan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/cangokceaslan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/cangokceaslan?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+---
 
-### Skills
+## At a Glance
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-</p>
+- **45K+ students educated** through practical software development courses.
+- **20+ digital products delivered** across web, mobile, cloud, and AI.
+- **Co-founder experience** turning early-stage ideas into funded, market-ready technology ventures.
+- **CTO leadership** across product strategy, engineering, remote teams, and technical delivery.
 
+## What I Do
 
-### Socials
+- **🚀 Build products** — Turn ideas into scalable, AI-native digital products from strategy through delivery.
+- **🧭 Lead teams** — Guide remote engineering teams and connect product decisions with business goals.
+- **🎓 Teach developers** — Create practical courses on JavaScript, Node.js, Redis, GitHub, and payment systems.
 
-<p align="left"> <a href="https://www.facebook.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.cangokceaslan.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10800488/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/cangokceaslan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+## Core Technologies
 
-### Badges
+### Languages
 
-<b>My GitHub Stats</b>
+<img src="./assets/languages/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript">&nbsp;&nbsp; <img src="./assets/languages/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">&nbsp;&nbsp; <img src="./assets/languages/python.svg" width="48" height="48" alt="Python" title="Python">&nbsp;&nbsp; <img src="./assets/languages/rust.svg" width="48" height="48" alt="Rust" title="Rust">&nbsp;&nbsp; <img src="./assets/languages/go.svg" width="48" height="48" alt="Go" title="Go">&nbsp;&nbsp; <img src="./assets/languages/kotlin.svg" width="48" height="48" alt="Kotlin" title="Kotlin">&nbsp;&nbsp; <img src="./assets/languages/swift.svg" width="48" height="48" alt="Swift" title="Swift">&nbsp;&nbsp; <img src="./assets/languages/dart.svg" width="48" height="48" alt="Dart" title="Dart">&nbsp;&nbsp; <img src="./assets/languages/c.svg" width="48" height="48" alt="C" title="C">&nbsp;&nbsp; <img src="./assets/languages/cpp.svg" width="48" height="48" alt="C++" title="C++">&nbsp;&nbsp; <img src="./assets/languages/php.svg" width="48" height="48" alt="PHP" title="PHP">
 
-<a href="http://www.github.com/cangokceaslan"><img src="https://github-readme-stats.vercel.app/api?username=cangokceaslan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cangokceaslan's GitHub stats" /></a>
+### Web & Mobile
 
-<a href="http://www.github.com/cangokceaslan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cangokceaslan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="./assets/web-mobile/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js">&nbsp;&nbsp; <img src="./assets/web-mobile/express.svg" width="48" height="48" alt="Express" title="Express">&nbsp;&nbsp; <img src="./assets/web-mobile/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js">&nbsp;&nbsp; <img src="./assets/web-mobile/react.svg" width="48" height="48" alt="React" title="React">&nbsp;&nbsp; <img src="./assets/web-mobile/vue.svg" width="48" height="48" alt="Vue" title="Vue">&nbsp;&nbsp; <img src="./assets/web-mobile/nuxt.svg" width="48" height="48" alt="Nuxt" title="Nuxt">&nbsp;&nbsp; <img src="./assets/web-mobile/flutter.svg" width="48" height="48" alt="Flutter" title="Flutter">&nbsp;&nbsp; <img src="./assets/web-mobile/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;&nbsp; <img src="./assets/web-mobile/bootstrap.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap">&nbsp;&nbsp; <img src="./assets/web-mobile/angular.svg" width="48" height="48" alt="Angular" title="Angular">&nbsp;&nbsp; <img src="./assets/web-mobile/webassembly.svg" width="48" height="48" alt="WebAssembly" title="WebAssembly">&nbsp;&nbsp; <img src="./assets/web-mobile/gluestack.svg" width="48" height="48" alt="gluestack-ui" title="gluestack-ui">
 
-<!-- <a href="http://www.github.com/cangokceaslan"><img src="https://activity-graph.herokuapp.com/graph?username=cangokceaslan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+### Data & Infrastructure
 
-<a href="https://github.com/cangokceaslan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cangokceaslan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="./assets/data-infrastructure/redis.svg" width="48" height="48" alt="Redis" title="Redis">&nbsp;&nbsp; <img src="./assets/data-infrastructure/mongodb.svg" width="48" height="48" alt="MongoDB" title="MongoDB">&nbsp;&nbsp; <img src="./assets/data-infrastructure/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp; <img src="./assets/data-infrastructure/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL">&nbsp;&nbsp; <img src="./assets/data-infrastructure/dynamodb.svg" width="48" height="48" alt="DynamoDB" title="DynamoDB">&nbsp;&nbsp; <img src="./assets/data-infrastructure/firebase.svg" width="48" height="48" alt="Firebase" title="Firebase">&nbsp;&nbsp; <img src="./assets/data-infrastructure/docker.svg" width="48" height="48" alt="Docker" title="Docker">&nbsp;&nbsp; <img src="./assets/data-infrastructure/git.svg" width="48" height="48" alt="Git" title="Git">&nbsp;&nbsp; <img src="./assets/data-infrastructure/github-actions.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions">&nbsp;&nbsp; <img src="./assets/data-infrastructure/nginx.svg" width="48" height="48" alt="NGINX" title="NGINX">&nbsp;&nbsp; <img src="./assets/data-infrastructure/docker-compose.svg" width="48" height="48" alt="Docker Compose" title="Docker Compose">
 
-<b>Top Repositories</b>
+### Cloud Platforms
 
-<div width="100%" align="center"><a href="https://github.com/cangokceaslan/express-swagger-producer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangokceaslan&repo=express-swagger-producer&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cangokceaslan/mongoose-truck" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cangokceaslan&repo=mongoose-truck&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<img src="./assets/cloud-platforms/aws.svg" width="48" height="48" alt="AWS" title="AWS">&nbsp;&nbsp; <img src="./assets/cloud-platforms/google-cloud.svg" width="48" height="48" alt="Google Cloud" title="Google Cloud">&nbsp;&nbsp; <img src="./assets/cloud-platforms/azure.svg" width="48" height="48" alt="Microsoft Azure" title="Microsoft Azure">&nbsp;&nbsp; <img src="./assets/cloud-platforms/cloudflare.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare">&nbsp;&nbsp; <img src="./assets/cloud-platforms/vercel.svg" width="48" height="48" alt="Vercel" title="Vercel">&nbsp;&nbsp; <img src="./assets/cloud-platforms/heroku.svg" width="48" height="48" alt="Heroku" title="Heroku">&nbsp;&nbsp; <img src="./assets/cloud-platforms/openstack.svg" width="48" height="48" alt="OpenStack" title="OpenStack">&nbsp;&nbsp; <img src="./assets/cloud-platforms/on-premises.svg" width="48" height="48" alt="On-premises infrastructure" title="On-premises">&nbsp;&nbsp; <img src="./assets/cloud-platforms/alibaba-cloud.svg" width="48" height="48" alt="Alibaba Cloud" title="Alibaba Cloud">
 
-### Support Me
+### AI Development
 
-<a href="https://www.buymeacoffee.com/cangokceaslan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<img src="./assets/ai-development/chatgpt.svg" width="48" height="48" alt="ChatGPT" title="ChatGPT">&nbsp;&nbsp; <img src="./assets/ai-development/claude.svg" width="48" height="48" alt="Anthropic Claude" title="Anthropic Claude">&nbsp;&nbsp; <img src="./assets/ai-development/aws-bedrock.png" width="48" height="48" alt="AWS Bedrock" title="AWS Bedrock">&nbsp;&nbsp; <img src="./assets/ai-development/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face">&nbsp;&nbsp; <img src="./assets/ai-development/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain">&nbsp;&nbsp; <img src="./assets/ai-development/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch">&nbsp;&nbsp; <img src="./assets/ai-development/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow">&nbsp;&nbsp; <img src="./assets/ai-development/ollama.svg" width="48" height="48" alt="Ollama" title="Ollama">&nbsp;&nbsp; <img src="./assets/ai-development/vllm.svg" width="48" height="48" alt="vLLM" title="vLLM">&nbsp;&nbsp; <img src="./assets/ai-development/airllm.png" width="48" height="48" alt="AirLLM" title="AirLLM">&nbsp;&nbsp; <img src="./assets/ai-development/docker-model-runner.svg" width="48" height="48" alt="Docker Model Runner" title="Docker Model Runner">
+
+### AI Toolkit
+
+<img src="./assets/ai-toolkit/codex.png" width="48" height="48" alt="Codex" title="Codex">&nbsp;&nbsp; <img src="./assets/ai-toolkit/openai-api.svg" width="48" height="48" alt="OpenAI API" title="OpenAI API">&nbsp;&nbsp; <img src="./assets/ai-toolkit/claude.svg" width="48" height="48" alt="Claude Code" title="Claude Code">&nbsp;&nbsp; <img src="./assets/ai-toolkit/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor">&nbsp;&nbsp; <img src="./assets/ai-toolkit/github-copilot.svg" width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot">&nbsp;&nbsp; <img src="./assets/ai-toolkit/ollama.svg" width="48" height="48" alt="Ollama" title="Ollama">&nbsp;&nbsp; <img src="./assets/ai-toolkit/unsloth.png" width="48" height="48" alt="Unsloth" title="Unsloth">&nbsp;&nbsp; <img src="./assets/ai-toolkit/local-llm.svg" width="48" height="48" alt="Local LLM" title="Local LLM">
+
+## GitHub Insights
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cangokceaslan&amp;theme=github_dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cangokceaslan&amp;theme=github">
+          <img width="100%" alt="Can Gökçeaslan's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cangokceaslan&amp;theme=github">
+        </picture>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cangokceaslan&amp;theme=github_dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cangokceaslan&amp;theme=github">
+          <img width="100%" alt="Can Gökçeaslan's top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cangokceaslan&amp;theme=github">
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cangokceaslan&amp;background=0D1117&amp;border=2E343B&amp;stroke=8B949E&amp;ring=EFB600&amp;fire=EFB600&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=EFB600&amp;sideLabels=8B949E&amp;dates=8B949E&amp;hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=cangokceaslan&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=57606A&amp;ring=B8860B&amp;fire=EFB600&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=9A6700&amp;sideLabels=57606A&amp;dates=57606A&amp;hide_border=true">
+          <img width="100%" alt="Can Gökçeaslan's GitHub contribution streak" src="https://streak-stats.demolab.com?user=cangokceaslan&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=57606A&amp;ring=B8860B&amp;fire=EFB600&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=9A6700&amp;sideLabels=57606A&amp;dates=57606A&amp;hide_border=true">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Explore My Work
+
+- **[GoodTech.](https://www.goodtechproducts.com)** — AI-native digital products for organizations and technology companies.
+- **[Online Courses](https://www.cangokceaslan.com/egitimlerim)** — Practical software development education for more than 45,000 students.
+- **[AI Development](https://huggingface.co/cangokceaslan)** — LLM integrations, local model workflows, and AI-native product development.
+- **[Software Development](https://github.com/cangokceaslan?tab=repositories)** — Web, mobile, backend, cloud, and open-source projects.
+
+---
+
+## Let's Connect
+
+I'm based in Istanbul and open to conversations about software products, technology ventures, education, and open-source collaboration.
+
+<a href="https://www.cangokceaslan.com"><img src="./assets/connects/website.png" width="36" height="36" alt="Website" title="Website"></a>&nbsp;&nbsp; <a href="https://www.goodtechproducts.com"><img src="./assets/connects/goodtech.png" width="36" height="36" alt="GoodTech." title="GoodTech."></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cangokceaslan"><img src="./assets/connects/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp; <a href="https://www.instagram.com/cangokceaslan"><img src="./assets/connects/instagram.svg" width="36" height="36" alt="Instagram" title="Instagram"></a>&nbsp;&nbsp; <a href="https://www.threads.com/@cangokceaslan"><img src="./assets/connects/threads.svg" width="36" height="36" alt="Threads" title="Threads"></a>&nbsp;&nbsp; <a href="https://www.youtube.com/cangokceaslan"><img src="./assets/connects/youtube.svg" width="36" height="36" alt="YouTube" title="YouTube"></a>&nbsp;&nbsp; <a href="https://www.udemy.com/user/cangokceaslan"><img src="./assets/connects/udemy.svg" width="36" height="36" alt="Udemy" title="Udemy"></a>&nbsp;&nbsp; <a href="https://huggingface.co/cangokceaslan"><img src="./assets/connects/huggingface.svg" width="36" height="36" alt="Hugging Face" title="Hugging Face"></a>

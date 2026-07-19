@@ -1,0 +1,19 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .background { fill: #242938; }
+    .container { fill: #2496ED; }
+    .detail { stroke: #FFFFFF; }
+    .connection { stroke: #8B949E; }
+    @media (prefers-color-scheme: light) {
+      .background { fill: #F4F2ED; }
+      .connection { stroke: #57606A; }
+    }
+  </style>
+  <rect class="background" width="256" height="256" rx="60"/>
+  <rect class="container" x="43" y="48" width="72" height="54" rx="12"/>
+  <rect class="container" x="141" y="48" width="72" height="54" rx="12"/>
+  <rect class="container" x="92" y="154" width="72" height="54" rx="12"/>
+  <path class="detail" d="M61 66H97M61 84H86M159 66H195M159 84H184M110 172H146M110 190H135" stroke-width="8" stroke-linecap="round"/>
+  <path class="connection" d="M79 102V128H128M177 102V128H128M128 128V154" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="128" cy="128" r="8" fill="#EFB600"/>
+</svg>
