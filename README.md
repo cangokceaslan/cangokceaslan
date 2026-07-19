@@ -11,21 +11,21 @@ I build software products, launch technology ventures, and share what I learn th
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 45K+ Students</h3>
+      <strong>🎓 45K+ Students</strong>
       <p>Practical software development education built around real-world workflows.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 20+ Digital Products</h3>
+      <strong>🚀 20+ Digital Products</strong>
       <p>Delivered across web, mobile, cloud, and AI from strategy through launch.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 Co-founder Experience</h3>
+      <strong>🤝 Co-founder Experience</strong>
       <p>Turning early-stage ideas into funded, market-ready technology ventures.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧭 CTO Leadership</h3>
+      <strong>🧭 CTO Leadership</strong>
       <p>Leading product strategy, engineering, remote teams, and technical delivery.</p>
     </td>
   </tr>
