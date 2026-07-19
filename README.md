@@ -6,6 +6,8 @@ I build software products, launch technology ventures, and share what I learn th
 
 <a href="https://www.cangokceaslan.com"><img src="./assets/connects/website.png" width="40" height="40" alt="Website" title="Website"></a>&nbsp;&nbsp; <a href="https://www.goodtechproducts.com"><img src="./assets/connects/goodtech.png" width="40" height="40" alt="GoodTech." title="GoodTech."></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/cangokceaslan"><img src="./assets/connects/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp; <a href="https://www.instagram.com/cangokceaslan"><img src="./assets/connects/instagram.svg" width="40" height="40" alt="Instagram" title="Instagram"></a>&nbsp;&nbsp; <a href="https://www.threads.com/@cangokceaslan"><img src="./assets/connects/threads.svg" width="40" height="40" alt="Threads" title="Threads"></a>&nbsp;&nbsp; <a href="https://www.youtube.com/cangokceaslan"><img src="./assets/connects/youtube.svg" width="40" height="40" alt="YouTube" title="YouTube"></a>&nbsp;&nbsp; <a href="https://www.udemy.com/user/cangokceaslan"><img src="./assets/connects/udemy.svg" width="40" height="40" alt="Udemy" title="Udemy"></a>&nbsp;&nbsp; <a href="https://huggingface.co/cangokceaslan"><img src="./assets/connects/huggingface.svg" width="40" height="40" alt="Hugging Face" title="Hugging Face"></a>
 
+---
+
 ## At a Glance
 
 ### 45K+ Students
