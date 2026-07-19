@@ -2,7 +2,7 @@
 <title id="instagram-title">Instagram</title>
 <style>
   .icon-bg { fill: #242938; }
-  .mark { fill: #ffffff; }
+  .mark { fill: #efb600; }
   @media (prefers-color-scheme: light) {
     .icon-bg { fill: #f4f2ed; }
     .mark { fill: #e1306c; }

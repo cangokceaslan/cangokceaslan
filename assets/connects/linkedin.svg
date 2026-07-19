@@ -2,7 +2,7 @@
   <title id="linkedin-title">LinkedIn</title>
   <style>
     .icon-bg { fill: #242938; }
-    .mark { fill: #ffffff; }
+    .mark { fill: #efb600; }
     @media (prefers-color-scheme: light) {
       .icon-bg { fill: #f4f2ed; }
       .mark { fill: #0a66c2; }

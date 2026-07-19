@@ -2,7 +2,7 @@
   <title id="udemy-title">Udemy</title>
   <style>
     .icon-bg { fill: #242938; }
-    .mark { fill: #ffffff; }
+    .mark { fill: #efb600; }
     @media (prefers-color-scheme: light) {
       .icon-bg { fill: #f4f2ed; }
       .mark { fill: #a435f0; }
