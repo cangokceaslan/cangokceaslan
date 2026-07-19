@@ -8,21 +8,28 @@ I build software products, launch technology ventures, and share what I learn th
 
 ## At a Glance
 
-### 45K+ Students
-
-Practical software development education built around real-world workflows.
-
-### 20+ Digital Products
-
-Delivered across web, mobile, cloud, and AI from strategy through launch.
-
-### Co-founder Experience
-
-Turning early-stage ideas into funded, market-ready technology ventures.
-
-### CTO Leadership
-
-Leading product strategy, engineering, remote teams, and technical delivery.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 45K+ Students</h3>
+      <p>Practical software development education built around real-world workflows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 20+ Digital Products</h3>
+      <p>Delivered across web, mobile, cloud, and AI from strategy through launch.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 Co-founder Experience</h3>
+      <p>Turning early-stage ideas into funded, market-ready technology ventures.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 CTO Leadership</h3>
+      <p>Leading product strategy, engineering, remote teams, and technical delivery.</p>
+    </td>
+  </tr>
+</table>
 
 ## What I Do
 
