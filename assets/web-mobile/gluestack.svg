@@ -1,7 +1,18 @@
-<svg width="29" height="29" viewBox="0 0 29 29" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.78125" y="0.601562" width="28" height="28" rx="2" fill="white"/>
-<path d="M6.78125 12.9571L14.781 7.06445V9.84533L6.78125 15.738V12.9571Z" fill="black"/>
-<path d="M22.7812 12.9571L14.7815 7.06445V9.84533L22.7812 15.738V12.9571Z" fill="black"/>
-<path d="M6.78125 19.3575L14.781 13.4648V16.2457L6.78125 22.1384V19.3575Z" fill="black"/>
-<path d="M22.7812 19.3575L14.7815 13.4648V16.2457L22.7812 22.1384V19.3575Z" fill="black"/>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="gluestack-title">
+  <title id="gluestack-title">gluestack-ui</title>
+  <style>
+    .icon-bg { fill: #242938; }
+    .mark { fill: #ffffff; }
+    @media (prefers-color-scheme: light) {
+      .icon-bg { fill: #f4f2ed; }
+      .mark { fill: #111111; }
+    }
+  </style>
+  <rect class="icon-bg" width="256" height="256" rx="60"/>
+  <g class="mark" transform="translate(40 40) scale(6.0689655)">
+    <path d="M6.78125 12.9571L14.781 7.06445V9.84533L6.78125 15.738V12.9571Z"/>
+    <path d="M22.7812 12.9571L14.7815 7.06445V9.84533L22.7812 15.738V12.9571Z"/>
+    <path d="M6.78125 19.3575L14.781 13.4648V16.2457L6.78125 22.1384V19.3575Z"/>
+    <path d="M22.7812 19.3575L14.7815 13.4648V16.2457L22.7812 22.1384V19.3575Z"/>
+  </g>
 </svg>

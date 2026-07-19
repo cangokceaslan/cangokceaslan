@@ -1,9 +1,9 @@
-<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .background { fill: #242938; }
     .mark { fill: #EFB600; }
     @media (prefers-color-scheme: light) {
-      .background { fill: #F4F2ED; }
+      .background { fill: #f4f2ed; }
       .mark { fill: #B8860B; }
     }
   </style>

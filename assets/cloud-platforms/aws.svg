@@ -5,7 +5,7 @@
     path.letters {fill: #fff}
 
     @media (prefers-color-scheme: light) {
-        rect {fill: #F4F2ED}
+        rect {fill: #f4f2ed}
         path.letters {fill: #252F3E}
     }
 }

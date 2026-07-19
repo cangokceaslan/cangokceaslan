@@ -1,7 +1,15 @@
 <svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="udemy-title">
   <title id="udemy-title">Udemy</title>
-  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <style>
+    .icon-bg { fill: #242938; }
+    .mark { fill: #ffffff; }
+    @media (prefers-color-scheme: light) {
+      .icon-bg { fill: #f4f2ed; }
+      .mark { fill: #a435f0; }
+    }
+  </style>
+  <rect class="icon-bg" width="256" height="256" rx="60"/>
   <g transform="translate(44 44) scale(7)">
-    <path fill="#ffffff" d="M12 0L5.81 3.573v3.574l6.189-3.574 6.191 3.574V3.573zM5.81 10.148v8.144c0 1.85.589 3.243 1.741 4.234S10.177 24 11.973 24s3.269-.482 4.448-1.474c1.179-.991 1.768-2.439 1.768-4.314v-8.064h-3.242v7.85c0 2.036-1.509 3.055-2.948 3.055-1.428 0-2.947-.991-2.947-3.027v-7.878z"/>
+    <path class="mark" d="M12 0L5.81 3.573v3.574l6.189-3.574 6.191 3.574V3.573zM5.81 10.148v8.144c0 1.85.589 3.243 1.741 4.234S10.177 24 11.973 24s3.269-.482 4.448-1.474c1.179-.991 1.768-2.439 1.768-4.314v-8.064h-3.242v7.85c0 2.036-1.509 3.055-2.948 3.055-1.428 0-2.947-.991-2.947-3.027v-7.878z"/>
   </g>
 </svg>

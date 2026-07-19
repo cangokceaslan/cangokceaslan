@@ -1,5 +1,5 @@
 
-            <svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+            <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
         
 		<g transform="translate(0, 0)">
             
@@ -14,7 +14,7 @@
     path[fill="url(#paint2_linear_220_16)"] {fill: url(#paint2_linear_220_16)}
 
     @media (prefers-color-scheme: light) {
-        rect {fill: #F4F2ED}
+        rect {fill: #f4f2ed}
         path[fill="white"] {fill: black}
         path[fill="#E4E4E4"] {fill: #555555}
         path[fill="url(#paint0_linear_220_16)"] {fill: url(#paint0_linear_220_18)}

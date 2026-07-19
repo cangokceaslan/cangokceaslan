@@ -1,6 +1,12 @@
 <svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="vllm-title">
   <title id="vllm-title">vLLM</title>
-  <rect width="256" height="256" rx="60" fill="#242938"/>
+<style>
+  .icon-bg { fill: #242938; }
+  @media (prefers-color-scheme: light) {
+    .icon-bg { fill: #f4f2ed; }
+  }
+</style>
+  <rect class="icon-bg" width="256" height="256" rx="60"/>
   <g transform="translate(40 40) scale(1.8333333)">
     <path fill="#d9d9d9" d="M42.224 28.47v55.308L14.57 28.47z"/>
     <path fill="#d9d9d9" d="M42.223 83.778h21.73l18.653-70.386-25.575 13.462z"/>
