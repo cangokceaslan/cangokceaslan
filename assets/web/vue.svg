@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256" id="vuejs">
+<svg xmlns="http://www.w3.org/2000/svg" id="vuejs" width="256" height="256" fill="none" viewBox="0 0 256 256">
 <style>
 #vuejs {
     path.rect {fill: #242938}
