@@ -1,19 +1,11 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="docker-compose-title">
+  <title id="docker-compose-title">Docker Compose</title>
   <style>
-    .background { fill: #242938; }
-    .container { fill: #2496ED; }
-    .detail { stroke: #FFFFFF; }
-    .connection { stroke: #8B949E; }
+    .icon-bg { fill: #242938; }
     @media (prefers-color-scheme: light) {
-      .background { fill: #f4f2ed; }
-      .connection { stroke: #57606A; }
+      .icon-bg { fill: #f4f2ed; }
     }
   </style>
-  <rect class="background" width="256" height="256" rx="60"/>
-  <rect class="container" x="43" y="48" width="72" height="54" rx="12"/>
-  <rect class="container" x="141" y="48" width="72" height="54" rx="12"/>
-  <rect class="container" x="92" y="154" width="72" height="54" rx="12"/>
-  <path class="detail" d="M61 66H97M61 84H86M159 66H195M159 84H184M110 172H146M110 190H135" stroke-width="8" stroke-linecap="round"/>
-  <path class="connection" d="M79 102V128H128M177 102V128H128M128 128V154" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="128" cy="128" r="8" fill="#EFB600"/>
+  <rect class="icon-bg" width="256" height="256" rx="60"/>
+  <path d="M141.187 122.123H161.904V103.379H141.187V122.123ZM116.525 122.123H137.241V103.379H116.525V122.123ZM92.355 122.123H113.072V103.379H92.355V122.123ZM68.186 122.123H88.409V103.379H68.186V122.123ZM43.523 122.123H64.24V103.379H43.523V122.123ZM68.186 99.433H88.409V80.69H68.186V99.433ZM92.355 99.433H113.072V80.69H92.355V99.433ZM116.525 99.433H137.241V80.69H116.525V99.433ZM116.525 76.744H137.241V58H116.525V76.744ZM228 113.738s-8.879-8.386-27.129-5.426c-1.973-14.305-17.264-22.69-17.264-22.69s-14.304 17.264-3.946 36.501c-2.959 1.48-7.892 3.453-15.291 3.453H28.726c-2.467 9.372-2.467 71.521 65.602 71.521 48.832 0 85.333-22.689 102.597-64.123C222.574 134.948 228 113.738 228 113.738Z" fill="#2496ED"/>
 </svg>
