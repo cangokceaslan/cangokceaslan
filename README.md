@@ -1,4 +1,6 @@
-<img src="./assets/profile-heading.svg" width="520" height="86" alt="Hi, I'm Can Gökçeaslan 👋 — Entrepreneur · CTO · Software Educator">
+# Hi, I'm Can Gökçeaslan 👋
+
+### Entrepreneur · CTO · Software Educator
 
 I build software products, launch technology ventures, and share what I learn through practical developer education. I currently lead product and engineering at [GoodTech.](https://www.goodtechproducts.com), where we design and develop AI-native digital experiences.
 
