@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256" role="img" aria-labelledby="mssql-title">
+  <title id="mssql-title">Microsoft SQL Server</title>
+  <style>
+    .icon-bg { fill: #242938; }
+    @media (prefers-color-scheme: light) {
+      .icon-bg { fill: #f4f2ed; }
+    }
+  </style>
+  <rect class="icon-bg" width="256" height="256" rx="60"/>
+  <g transform="translate(38 38) scale(3.75)">
+    <path d="M23.998 33.6c10.604 0 19.2 3.223 19.2 7.2V26.4c0-3.977-8.596-7.2-19.2-7.2h-4.8v14.4h4.8Z" fill="url(#mssql-a)"/>
+    <path d="M43.199 26.4c0 3.976-8.596 7.2-19.2 7.2-6.467 0-12.187-1.199-15.666-3.037C6.449 29.728 4.8 30.994 4.8 32.709V40.8c0 3.976 8.596 7.2 19.2 7.2s19.2-3.224 19.2-7.2V26.4Z" fill="url(#mssql-b)"/>
+    <path d="M43.199 26.4c0 3.976-8.596 7.2-19.2 7.2-6.467 0-12.187-1.199-15.666-3.037C6.449 29.728 4.8 30.994 4.8 32.709V40.8c0 3.976 8.596 7.2 19.2 7.2s19.2-3.224 19.2-7.2V26.4Z" fill="url(#mssql-c)"/>
+    <path d="M23.999 0c10.603 0 19.2 3.224 19.2 7.2v8.156c0 1.116-1.163 3.075-3.537 2.079-3.479-1.837-9.198-3.035-15.663-3.035C13.395 14.4 4.8 17.624 4.8 21.6V7.2C4.8 3.224 13.395 0 23.999 0Z" fill="url(#mssql-d)"/>
+    <path d="M23.999 14.4c-10.604 0-19.2-3.224-19.2-7.2v14.4c0 3.976 8.596 7.2 19.2 7.2h1.2a3.6 3.6 0 0 0 3.6-3.6V18a3.6 3.6 0 0 0-3.6-3.6h-1.2Z" fill="url(#mssql-e)"/>
+    <path d="M23.999 14.4c-10.604 0-19.2-3.224-19.2-7.2v14.4c0 3.976 8.596 7.2 19.2 7.2h1.2a3.6 3.6 0 0 0 3.6-3.6V18a3.6 3.6 0 0 0-3.6-3.6h-1.2Z" fill="url(#mssql-f)"/>
+  </g>
+  <defs>
+    <linearGradient id="mssql-a" x1="35.998" y1="19.2" x2="15.933" y2="35.819" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0094F0"/>
+      <stop offset=".243" stop-color="#0078D4"/>
+      <stop offset=".584" stop-color="#2052CB"/>
+      <stop offset=".831" stop-color="#312A9A"/>
+    </linearGradient>
+    <radialGradient id="mssql-b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(33.599 29.55) rotate(143.591) scale(29.821 53.015)">
+      <stop stop-color="#3BD5FF"/>
+      <stop offset="1" stop-color="#0078D4"/>
+    </radialGradient>
+    <radialGradient id="mssql-c" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.599 27.6) rotate(146.31) scale(25.96 43.796)">
+      <stop stop-color="#DECBFF" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#DECBFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mssql-d" x1="32.399" y1="1.2" x2="9.668" y2="25.949" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0FAFFF"/>
+      <stop offset=".163" stop-color="#0094F0"/>
+      <stop offset=".564" stop-color="#2052CB"/>
+      <stop offset=".764" stop-color="#312A9A"/>
+    </linearGradient>
+    <radialGradient id="mssql-e" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(23.668 12.149) rotate(137.53) scale(24.661 38.412)">
+      <stop stop-color="#3BD5FF"/>
+      <stop offset="1" stop-color="#0078D4"/>
+    </radialGradient>
+    <radialGradient id="mssql-f" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(27.599 10.8) rotate(149.036) scale(20.991 33.601)">
+      <stop stop-color="#DECBFF" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#D1D1FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
