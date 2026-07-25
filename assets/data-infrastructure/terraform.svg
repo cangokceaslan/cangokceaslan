@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256" role="img" aria-labelledby="terraform-title">
+  <title id="terraform-title">Terraform</title>
+  <style>
+    .icon-bg { fill: #242938; }
+    @media (prefers-color-scheme: light) {
+      .icon-bg { fill: #f4f2ed; }
+    }
+  </style>
+  <rect class="icon-bg" width="256" height="256" rx="60"/>
+  <path fill="#844FBA" d="M48.8 38v56.813l49.208 28.425V66.403L48.8 38Zm158.4 31.703-49.208 28.433v56.805l49.2-28.402L207.2 69.703ZM103.4 69.725v56.813l49.208 28.402V98.135L103.4 69.725Zm0 63.038v56.813L152.6 218v-56.835l-49.2-28.402Z"/>
+</svg>

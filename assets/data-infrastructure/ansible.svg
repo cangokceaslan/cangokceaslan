@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256" role="img" aria-labelledby="ansible-title">
+  <title id="ansible-title">Ansible</title>
+  <style>
+    .icon-bg { fill: #242938; }
+    @media (prefers-color-scheme: light) {
+      .icon-bg { fill: #f4f2ed; }
+    }
+  </style>
+  <rect class="icon-bg" width="256" height="256" rx="60"/>
+  <path fill="#EE0000" d="m117.628 124.048 35.145 27.713-23.265-57.466L117.628 124.048ZM128 38c-49.718 0-90 40.283-90 90s40.282 90 90 90 90-40.283 90-90-40.282-90-90-90Zm43.477 129.788c-.083 3.532-3.023 6.315-6.563 6.225-1.77 0-3.12-.675-4.98-2.198l-46.425-37.5-15.593 39.023H84.433l39.353-94.538a6.02 6.02 0 0 1 5.73-3.795 5.96 5.96 0 0 1 5.565 3.795l35.805 86.205c.338.833.6 1.755.6 2.61-.008.068-.008.068-.008.173Z"/>
+</svg>
