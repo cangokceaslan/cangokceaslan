@@ -49,7 +49,7 @@ I build software products, launch technology ventures, and share what I learn th
 
 #### Mobile
 
-<img src="./assets/programming-languages/swift.svg" width="46" height="46" alt="Swift" title="Swift">&nbsp;&nbsp; <img src="./assets/programming-languages/java.svg" width="46" height="46" alt="Java" title="Java">&nbsp;&nbsp; <img src="./assets/programming-languages/kotlin.svg" width="46" height="46" alt="Kotlin" title="Kotlin">&nbsp;&nbsp; <img src="./assets/programming-languages/dart.svg" width="46" height="46" alt="Dart" title="Dart">&nbsp;&nbsp; <img src="./assets/mobile/react-native.svg" width="46" height="46" alt="React Native" title="React Native">&nbsp;&nbsp; <img src="./assets/mobile/flutter.svg" width="46" height="46" alt="Flutter" title="Flutter">
+<img src="./assets/mobile/swift.svg" width="46" height="46" alt="Swift" title="Swift">&nbsp;&nbsp; <img src="./assets/mobile/java.svg" width="46" height="46" alt="Java" title="Java">&nbsp;&nbsp; <img src="./assets/mobile/kotlin.svg" width="46" height="46" alt="Kotlin" title="Kotlin">&nbsp;&nbsp; <img src="./assets/mobile/dart.svg" width="46" height="46" alt="Dart" title="Dart">&nbsp;&nbsp; <img src="./assets/mobile/react-native.svg" width="46" height="46" alt="React Native" title="React Native">&nbsp;&nbsp; <img src="./assets/mobile/flutter.svg" width="46" height="46" alt="Flutter" title="Flutter">
 
 #### Database
 
