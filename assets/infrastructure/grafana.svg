@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256" role="img" aria-labelledby="grafana-title">
-  <!-- Grouped under Infrastructure assets. -->
   <title id="grafana-title">Grafana</title>
   <style>
     .icon-bg { fill: #242938; }
