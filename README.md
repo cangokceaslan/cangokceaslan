@@ -1,4 +1,4 @@
-# Hi, I'm Can Gökçeaslan 👋
+### Hi, I'm Can Gökçeaslan 👋
 
 ### Entrepreneur · CTO · Software Educator
 
