@@ -1,4 +1,4 @@
-### Hi, I'm Can Gökçeaslan 👋
+<img src="./assets/profile-heading.svg" width="520" height="48" alt="Hi, I'm Can Gökçeaslan 👋">
 
 ### Entrepreneur · CTO · Software Educator
 

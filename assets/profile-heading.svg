@@ -1,0 +1,10 @@
+<svg width="520" height="48" viewBox="0 0 520 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="profile-heading-title">
+  <title id="profile-heading-title">Hi, I'm Can Gökçeaslan</title>
+  <style>
+    .heading { fill: #F0F6FC; }
+    @media (prefers-color-scheme: light) {
+      .heading { fill: #1F2328; }
+    }
+  </style>
+  <text class="heading" x="0" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="32" font-weight="600">Hi, I'm Can Gökçeaslan 👋</text>
+</svg>
