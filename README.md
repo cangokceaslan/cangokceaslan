@@ -75,9 +75,9 @@ I build software products, launch technology ventures, and share what I learn th
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;theme=github-light">
-    <img width="100%" alt="Can Gökçeaslan's GitHub contribution graph for the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;theme=github-light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;bg_color=0d1117&amp;color=8b949e&amp;line=d29922&amp;point=f2cc60&amp;area=true&amp;area_color=d29922&amp;border_color=30363d&amp;title_color=e6edf3&amp;radius=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;bg_color=ffffff&amp;color=57606a&amp;line=9a6700&amp;point=bf8700&amp;area=true&amp;area_color=d4a72c&amp;border_color=d0d7de&amp;title_color=1f2328&amp;radius=6">
+    <img width="100%" alt="Can Gökçeaslan's GitHub contribution graph for the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;bg_color=ffffff&amp;color=57606a&amp;line=9a6700&amp;point=bf8700&amp;area=true&amp;area_color=d4a72c&amp;border_color=d0d7de&amp;title_color=1f2328&amp;radius=6">
   </picture>
 </a>
 
