@@ -73,11 +73,11 @@ I build software products, launch technology ventures, and share what I learn th
 
 ### GitHub Insights
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cangokceaslan&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cangokceaslan&amp;theme=github">
-    <img width="100%" alt="Can Gökçeaslan's GitHub activity over the last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cangokceaslan&amp;theme=github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;theme=github-light">
+    <img width="100%" alt="Can Gökçeaslan's GitHub contribution graph for the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=cangokceaslan&amp;theme=github-light">
   </picture>
 </a>
 
