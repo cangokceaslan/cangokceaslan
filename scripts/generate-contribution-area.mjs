@@ -2,7 +2,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 
 const username = "cangokceaslan";
-const dayCount = 31;
+const dayCount = 365;
 const outputPath = resolve("assets/github-insights/contribution-area.svg");
 const contributionUrl = `https://github.com/users/${username}/contributions`;
 
@@ -112,18 +112,18 @@ function renderAreaChart(days) {
   }).join("");
   const verticalGrid = days
     .map((day, index) => ({ day, index }))
-    .filter(({ index }) => index % 5 === 0 || index === days.length - 1)
+    .filter(({ day }) => day.date.endsWith("-01"))
     .map(({ day, index }) => {
       const x = points[index].x;
       return `
       <line class="grid vertical-grid" x1="${format(x)}" y1="${plot.top}" x2="${format(x)}" y2="${baseline}"/>
-      <text class="label date-label" x="${format(x)}" y="${baseline + 25}" text-anchor="middle">${formatDate(day.date)}</text>`;
+      <text class="label date-label" x="${format(x)}" y="${baseline + 25}" text-anchor="middle">${formatMonth(day.date)}</text>`;
     })
     .join("");
   const markers = points
     .map(
       ({ x, y }) =>
-        `<circle class="marker" cx="${format(x)}" cy="${format(y)}" r="3.5"/>`,
+        `<circle class="marker" cx="${format(x)}" cy="${format(y)}" r="1.4"/>`,
     )
     .join("");
 
@@ -156,7 +156,7 @@ function renderAreaChart(days) {
     .area-bottom { stop-color: #d29922; stop-opacity: .14; }
     .area { fill: url(#area-fill); }
     .line { fill: none; stroke: #d29922; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; filter: url(#line-glow); }
-    .marker { fill: #f2cc60; stroke: #0d1117; stroke-width: 1.5; }
+    .marker { fill: #f2cc60; stroke: #0d1117; stroke-width: .6; }
 
     @media (prefers-color-scheme: light) {
       .card { fill: #ffffff; stroke: #d0d7de; }
@@ -226,10 +226,9 @@ function clamp(value, minimum, maximum) {
   return Math.min(maximum, Math.max(minimum, value));
 }
 
-function formatDate(date) {
+function formatMonth(date) {
   return new Intl.DateTimeFormat("en", {
     month: "short",
-    day: "numeric",
     timeZone: "UTC",
   }).format(new Date(`${date}T00:00:00Z`));
 }
