@@ -4,6 +4,15 @@ import { dirname, resolve } from "node:path";
 const username = "cangokceaslan";
 const dayCount = 365;
 const outputPath = resolve("assets/github-insights/contribution-area.svg");
+const endDate = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Europe/Istanbul",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+}).format(new Date());
+const start = new Date(`${endDate}T00:00:00Z`);
+start.setUTCDate(start.getUTCDate() - dayCount + 1);
+const startDate = start.toISOString().slice(0, 10);
 const contributionUrl = `https://github.com/users/${username}/contributions`;
 
 const response = await fetch(contributionUrl, {
@@ -19,12 +28,22 @@ if (!response.ok) {
   );
 }
 
-const contributions = parseContributions(await response.text()).slice(-dayCount);
+const contributions = parseContributions(await response.text()).filter(
+  ({ date }) => date >= startDate && date <= endDate,
+);
 
 if (contributions.length !== dayCount) {
   throw new Error(
     `Expected ${dayCount} contribution days, received ${contributions.length}`,
   );
+}
+
+for (let index = 0; index < contributions.length; index += 1) {
+  const expected = new Date(`${startDate}T00:00:00Z`);
+  expected.setUTCDate(expected.getUTCDate() + index);
+  if (contributions[index].date !== expected.toISOString().slice(0, 10)) {
+    throw new Error("Contribution dates must cover the requested range without gaps or duplicates");
+  }
 }
 
 await mkdir(dirname(outputPath), { recursive: true });
@@ -129,7 +148,7 @@ function renderAreaChart(days) {
 
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="graph-title graph-description">
   <title id="graph-title">GitHub contribution activity</title>
-  <desc id="graph-description">Daily contribution counts for the last ${dayCount} days, shown as a filled area chart.</desc>
+  <desc id="graph-description">Daily contribution counts from ${days[0].date} to ${days.at(-1).date} (${days.length} days), shown as a filled area chart.</desc>
   <defs>
     <linearGradient id="area-fill" x1="0" y1="0" x2="0" y2="1">
       <stop class="area-top" offset="0%"/>
@@ -170,6 +189,7 @@ function renderAreaChart(days) {
     }
   </style>
   <rect class="card" x="1" y="1" width="${width - 2}" height="${height - 2}" rx="10"/>
+  <text class="label axis-label" x="${plot.left}" y="${height - 8}">${days[0].date} – ${days.at(-1).date}</text>
   ${horizontalGrid.trim()}
   ${verticalGrid.trim()}
   <path class="area" d="${areaPath}"/>
@@ -229,6 +249,7 @@ function clamp(value, minimum, maximum) {
 function formatMonth(date) {
   return new Intl.DateTimeFormat("en", {
     month: "short",
+    year: "2-digit",
     timeZone: "UTC",
   }).format(new Date(`${date}T00:00:00Z`));
 }
