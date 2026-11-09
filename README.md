@@ -74,7 +74,7 @@ I build software products, launch technology ventures, and share what I learn th
 ### GitHub Insights
 
 <a href="https://github.com/cangokceaslan">
-  <img width="100%" alt="GitHub contribution activity for the last 365 days" src="./assets/github-insights/contribution-area.svg">
+  <img width="100%" alt="Animated, gold-filled GitHub activity graph covering 365 days" src="./assets/github-insights/contribution-area.svg">
 </a>
 
 ### Explore My Work

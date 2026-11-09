@@ -4,12 +4,8 @@ import { dirname, resolve } from "node:path";
 const username = "cangokceaslan";
 const dayCount = 365;
 const outputPath = resolve("assets/github-insights/contribution-area.svg");
-const endDate = new Intl.DateTimeFormat("en-CA", {
-  timeZone: "Europe/Istanbul",
-  year: "numeric",
-  month: "2-digit",
-  day: "2-digit",
-}).format(new Date());
+// GitHub contribution dates use UTC, including during Istanbul's midnight overlap.
+const endDate = new Date().toISOString().slice(0, 10);
 const start = new Date(`${endDate}T00:00:00Z`);
 start.setUTCDate(start.getUTCDate() - dayCount + 1);
 const startDate = start.toISOString().slice(0, 10);
@@ -148,8 +144,11 @@ function renderAreaChart(days) {
 
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="graph-title graph-description">
   <title id="graph-title">GitHub contribution activity</title>
-  <desc id="graph-description">Daily contribution counts from ${days[0].date} to ${days.at(-1).date} (${days.length} days), shown as a filled area chart.</desc>
+  <desc id="graph-description">Daily contribution counts from ${days[0].date} to ${days.at(-1).date} (${days.length} days), shown as an animated, gold-filled activity graph.</desc>
   <defs>
+    <clipPath id="activity-reveal" clipPathUnits="userSpaceOnUse">
+      <rect class="reveal" x="${plot.left}" y="${plot.top - 8}" width="${plotWidth + 8}" height="${plotHeight + 16}"/>
+    </clipPath>
     <linearGradient id="area-fill" x1="0" y1="0" x2="0" y2="1">
       <stop class="area-top" offset="0%"/>
       <stop class="area-middle" offset="58%"/>
@@ -176,6 +175,16 @@ function renderAreaChart(days) {
     .area { fill: url(#area-fill); }
     .line { fill: none; stroke: #d29922; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; filter: url(#line-glow); }
     .marker { fill: #f2cc60; stroke: #0d1117; stroke-width: .6; }
+    .reveal { animation: reveal-activity 12s ease-in-out infinite; }
+
+    @keyframes reveal-activity {
+      0% { width: 0; }
+      24%, 100% { width: ${plotWidth + 8}px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; }
+    }
 
     @media (prefers-color-scheme: light) {
       .card { fill: #ffffff; stroke: #d0d7de; }
@@ -192,9 +201,11 @@ function renderAreaChart(days) {
   <text class="label axis-label" x="${plot.left}" y="${height - 8}">${days[0].date} – ${days.at(-1).date}</text>
   ${horizontalGrid.trim()}
   ${verticalGrid.trim()}
-  <path class="area" d="${areaPath}"/>
-  <path class="line" d="${linePath}"/>
-  ${markers}
+  <g clip-path="url(#activity-reveal)">
+    <path class="area" d="${areaPath}"/>
+    <path class="line" d="${linePath}"/>
+    ${markers}
+  </g>
 </svg>
 `;
 }
